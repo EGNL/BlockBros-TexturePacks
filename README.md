@@ -1,6 +1,6 @@
 DonkeyKong TexturePack for BlockBros
 
-Change the main.png that are standard in the files of bb to main.png.old and replace it with the (DonkeyKong) (3) Textures and rename it to main.png
+Change the main.png that are standard in the files of bb to main.png.old and replace it with the DonkeyKong Textures and rename it to main.png
 
 Change the texture.png that are standard in the files of BB to texture.png.old and replace it with the Black Textures/Background and rename it to texture.png
 
